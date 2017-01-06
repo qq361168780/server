@@ -21,7 +21,7 @@
             "phpunit/phpunit": "^4.8",
             "satooshi/php-coveralls": "v1.0.0"
         },
-        "time": "2016-06-02 14:37:52",
+        "time": "2016-06-02T14:37:52+00:00",
         "type": "library",
         "installation-source": "dist",
         "autoload": {
@@ -64,7 +64,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4.8"
         },
-        "time": "2016-12-13 13:56:55",
+        "time": "2016-12-13T13:56:55+00:00",
         "type": "library",
         "installation-source": "source",
         "autoload": {
